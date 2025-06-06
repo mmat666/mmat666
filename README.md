@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mmat666
-- 👀 I’m interested in Python - Flutter
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+i'm going back to 505...
 
 <!---
 mmat666/mmat666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
